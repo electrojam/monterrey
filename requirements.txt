@@ -2,3 +2,5 @@ pandas
 os
 openpyxl
 matplotlib
+nltk
+wordcloud
