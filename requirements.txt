@@ -5,3 +5,5 @@ matplotlib
 nltk
 wordcloud
 scikit-learn
+gensim
+numpy==1.26.4
